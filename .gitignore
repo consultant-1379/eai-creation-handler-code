@@ -1,0 +1,25 @@
+# Compiled source #
+*.class
+*/bin/*
+
+# Eclipse files
+.project
+.classpath
+.settings/
+.metadata
+
+# Packages
+*.jar
+
+# Maven build files
+target/
+
+# PMD
+*.pmd
+
+# Merge files
+*.orig
+
+# backup files
+*.*~
+
